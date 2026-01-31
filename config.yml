@@ -1,0 +1,6 @@
+tree_pickle_path: ./data/example_tree.pkl
+heatmap_stat_key: mean
+output_dir: ./outputs
+x_gap: 80
+y_gap: 120
+
