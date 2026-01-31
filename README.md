@@ -135,4 +135,4 @@ lopper/
 
 ## License
 
-This project uses MIT License (or specify your license here).
+This project uses MIT License.
