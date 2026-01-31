@@ -1,4 +1,4 @@
-# lopper
+# Lopper
 
 Interactive UI for pruning scikit-learn DecisionTreeRegressor models. Visualize your tree, collapse unwanted branches, and export a fully pruned model.
 
